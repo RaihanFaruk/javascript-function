@@ -6,7 +6,7 @@ function bringSingara (taka){
     return singaraQuantity;
 }
 
-var money = 250;
+var money = 90;
 
  var singara = bringSingara(money);
  console.log('ai nen singara', singara);
