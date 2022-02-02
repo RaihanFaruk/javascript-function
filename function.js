@@ -1,5 +1,5 @@
 function bringSingara (taka){
-    console.log('Hello World' + bringSingara);
+    console.log('singarar jonno dise' + taka);
 
 }
 bringSingara(100)
