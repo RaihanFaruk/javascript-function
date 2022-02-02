@@ -9,4 +9,4 @@ function bringSingara (taka){
 var money = 250;
 
  var singara = bringSingara(money);
- console.log('ai nen singara', singara)
+ console.log('ai nen singara', singara);
